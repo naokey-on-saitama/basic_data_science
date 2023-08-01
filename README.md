@@ -15,4 +15,13 @@
   
   埼玉県のデータを抽出
 
-- []()
+- [`ARIMA.ipynb`](https://github.com/naokey-on-saitama/basic_data_science/blob/main/ARIMA.ipynb)
+  
+  自己回帰和文移動平均モデル（ARIMA）で予測値を生成
+
+## 分析結果
+### 現状
+![Alt text](img/act.png)
+
+### 予測結果
+![Alt text](img/pred.png)
